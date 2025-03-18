@@ -1,3 +1,0 @@
-pandas
-win11toast
-psutil
